@@ -1,1484 +1,844 @@
 Using pre-set license
 Built from '2020.3/staging' branch; Version is '2020.3.5f1 (8095aa901b9b) revision 8426922'; Using compiler version '192528614'; Build Type 'Release'
-OS: 'Windows 10 Pro; OS build 22000.675; Version 2009; 64bit' Language: 'en' Physical Memory: 8110 MB
+OS: 'Windows 10 Education; OS build 19044.1288; Version 2009; 64bit' Language: 'en' Physical Memory: 32619 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
 
  COMMAND LINE ARGUMENTS:
-C:\Users\bridg\Desktop\Unity Versions\Unity\2020.3.5f1\Editor\Unity.exe
+C:\Program Files\Unity\Hub\Editor\2020.3.5f1\Editor\Unity.exe
 -adb2
 -batchMode
 -noUpm
 -name
 AssetImportWorker0
 -projectPath
-C:/Users/bridg/Desktop/Git Uploads/AIE/Cert 3/Game Production/AIEGameProductionProject
+C:/Users/s213090/Documents/Portfolio/projectWalter
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-53522
-Successfully changed project path to: C:/Users/bridg/Desktop/Git Uploads/AIE/Cert 3/Game Production/AIEGameProductionProject
-C:/Users/bridg/Desktop/Git Uploads/AIE/Cert 3/Game Production/AIEGameProductionProject
+50065
+Successfully changed project path to: C:/Users/s213090/Documents/Portfolio/projectWalter
+C:/Users/s213090/Documents/Portfolio/projectWalter
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 43.93 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 28.81 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.5f1 (8095aa901b9b)
-[Subsystems] Discovering subsystems at path C:/Users/bridg/Desktop/Unity Versions/Unity/2020.3.5f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path C:/Users/bridg/Desktop/Git Uploads/AIE/Cert 3/Game Production/AIEGameProductionProject/Assets
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.5f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/s213090/Documents/Portfolio/projectWalter/Assets
 GfxDevice: creating device client; threaded=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
-    Renderer: NVIDIA GeForce GTX 1050 (ID=0x1c8d)
+    Renderer: NVIDIA GeForce RTX 3060 (ID=0x2504)
     Vendor:   
-    VRAM:     4021 MB
-    Driver:   30.0.15.1165
+    VRAM:     12143 MB
+    Driver:   30.0.14.9676
 Initialize mono
-Mono path[0] = 'C:/Users/bridg/Desktop/Unity Versions/Unity/2020.3.5f1/Editor/Data/Managed'
-Mono path[1] = 'C:/Users/bridg/Desktop/Unity Versions/Unity/2020.3.5f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
-Mono config path = 'C:/Users/bridg/Desktop/Unity Versions/Unity/2020.3.5f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56188
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.5f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.5f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.5f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56296
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
-Register platform support module: C:/Users/bridg/Desktop/Unity Versions/Unity/2020.3.5f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
-Register platform support module: C:/Users/bridg/Desktop/Unity Versions/Unity/2020.3.5f1/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
-Register platform support module: C:/Users/bridg/Desktop/Unity Versions/Unity/2020.3.5f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Register platform support module: C:/Users/bridg/Desktop/Unity Versions/Unity/2020.3.5f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
-Register platform support module: C:/Users/bridg/Desktop/Unity Versions/Unity/2020.3.5f1/Editor/Data/PlaybackEngines/LuminSupport/UnityEditor.Lumin.Extensions.dll
-Registered in 0.003281 seconds.
-Native extension for Lumin target not found
-Native extension for LinuxStandalone target not found
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.5f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.5f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001408 seconds.
 Native extension for WindowsStandalone target not found
-Native extension for OSXStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 43.86 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 29.50 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.483 seconds
+- Completed reload, in  0.873 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.001797 seconds.
+Registered in 0.000696 seconds.
 Begin MonoManager ReloadAssembly
-Native extension for Lumin target not found
-Native extension for LinuxStandalone target not found
 Native extension for WindowsStandalone target not found
-Native extension for OSXStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 41.57 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 29.18 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.089 seconds
+- Completed reload, in  0.713 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
-Refreshing native plugins compatible for Editor in 0.40 ms, found 1 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
+Refreshing native plugins compatible for Editor in 0.33 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1808 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 85.5 MB.
-System memory in use after: 85.4 MB.
+Unloading 1812 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.2 MB.
+System memory in use after: 85.1 MB.
 
-Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2250.
-Total: 2.391000 ms (FindLiveObjects: 0.257100 ms CreateObjectMapping: 0.211100 ms MarkObjects: 1.740000 ms  DeleteObjects: 0.181300 ms)
-
-========================================================================
-Received Import Request.
-  path: Assets/2D assets
-  artifactKey: Guid(3ccd062ac664a4443a1c219dc351c688) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets using Guid(3ccd062ac664a4443a1c219dc351c688) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89d59d3fa28b3098138a98ecad45def0') in 0.007446 seconds
-  Import took 0.010266 seconds .
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2256.
+Total: 2.002700 ms (FindLiveObjects: 0.191300 ms CreateObjectMapping: 0.077800 ms MarkObjects: 1.627600 ms  DeleteObjects: 0.104800 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 4.628932 seconds.
-  path: Assets/2D assets/TeamGunner_By_SecretHideout_060519
-  artifactKey: Guid(6ff3f02d2799e4f4fa316d6c56855780) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/TeamGunner_By_SecretHideout_060519 using Guid(6ff3f02d2799e4f4fa316d6c56855780) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9984d1abf7bd307f0a3166850617510a') in 0.001845 seconds
-  Import took 0.004828 seconds .
+  path: Assets/Animations/Platform (2).controller
+  artifactKey: Guid(5788252963d942a42a7b39d8c996af42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Platform (2).controller using Guid(5788252963d942a42a7b39d8c996af42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0a9fd3e8934f8f103ffcf7811d60f43') in 0.023705 seconds
+  Import took 0.025947 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.978916 seconds.
-  path: Assets/2D assets/TeamGunner_By_SecretHideout_060519/CHARACTER_SPRITES
-  artifactKey: Guid(a6627f4de96a17d4ab71643f2851aef0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/TeamGunner_By_SecretHideout_060519/CHARACTER_SPRITES using Guid(a6627f4de96a17d4ab71643f2851aef0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19ef3bb4c51f2b11eea52ff9a49472e0') in 0.002013 seconds
-  Import took 0.005243 seconds .
+  Time since last request: 3.127304 seconds.
+  path: Assets/Animations/New Animation.anim
+  artifactKey: Guid(b224c80068768e541a5b89b59fad032f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/New Animation.anim using Guid(b224c80068768e541a5b89b59fad032f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2bb582a62c95c02ab8c1a69816de5ca') in 0.007519 seconds
+  Import took 0.009912 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.700566 seconds.
-  path: Assets/2D assets/TeamGunner_By_SecretHideout_060519/CHARACTER_SPRITES/Blue
-  artifactKey: Guid(8bc0f2b10e1f72d4ebfd7b19b32a960d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/TeamGunner_By_SecretHideout_060519/CHARACTER_SPRITES/Blue using Guid(8bc0f2b10e1f72d4ebfd7b19b32a960d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b872f183a5078ae8dbc2e1eeaed81ec1') in 0.001863 seconds
-  Import took 0.005848 seconds .
+  Time since last request: 0.000754 seconds.
+  path: Assets/Animations/New Animation.anim
+  artifactKey: Guid(b224c80068768e541a5b89b59fad032f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/New Animation.anim using Guid(b224c80068768e541a5b89b59fad032f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2bb582a62c95c02ab8c1a69816de5ca') in 0.001588 seconds
+  Import took 0.003742 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.093667 seconds.
-  path: Assets/2D assets/TeamGunner_By_SecretHideout_060519/CHARACTER_SPRITES/Blue/Gunner_Blue_Crouch.png
-  artifactKey: Guid(870a36a92abe31b4dbe90437cf4be22d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/TeamGunner_By_SecretHideout_060519/CHARACTER_SPRITES/Blue/Gunner_Blue_Crouch.png using Guid(870a36a92abe31b4dbe90437cf4be22d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ada207d5f7695b28aa814cf2619e068') in 0.177024 seconds
-  Import took 0.180600 seconds .
+  Time since last request: 10.738695 seconds.
+  path: Assets/Animations/PlatformMove.anim
+  artifactKey: Guid(b224c80068768e541a5b89b59fad032f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/PlatformMove.anim using Guid(b224c80068768e541a5b89b59fad032f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d159ad4c74d6c6d94d7a3235baf4399') in 0.006173 seconds
+  Import took 0.008670 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000349 seconds.
-  path: Assets/2D assets/TeamGunner_By_SecretHideout_060519/CHARACTER_SPRITES/Blue/Gunner_Blue_Death.png
-  artifactKey: Guid(bb4b956da03d3374db6a374d57d72827) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/TeamGunner_By_SecretHideout_060519/CHARACTER_SPRITES/Blue/Gunner_Blue_Death.png using Guid(bb4b956da03d3374db6a374d57d72827) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd67122296ecd6de3a39862c4a9fcda50') in 0.006543 seconds
-  Import took 0.009501 seconds .
+  Time since last request: 7.284122 seconds.
+  path: Assets/Animations/PlatformAnimator.controller
+  artifactKey: Guid(5788252963d942a42a7b39d8c996af42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/PlatformAnimator.controller using Guid(5788252963d942a42a7b39d8c996af42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '916923e620f1eceff4d9b814cc62af3e') in 0.004577 seconds
+  Import took 0.006881 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000260 seconds.
-  path: Assets/2D assets/TeamGunner_By_SecretHideout_060519/CHARACTER_SPRITES/Blue/Gunner_Blue_Idle.png
-  artifactKey: Guid(04b2e72d7fd18b5478f38f54e327e7ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/TeamGunner_By_SecretHideout_060519/CHARACTER_SPRITES/Blue/Gunner_Blue_Idle.png using Guid(04b2e72d7fd18b5478f38f54e327e7ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88fb170e90cf7c89ad3d90fedff85cee') in 0.028866 seconds
-  Import took 0.032460 seconds .
+  Time since last request: 11.230448 seconds.
+  path: Assets/Animations
+  artifactKey: Guid(b62d1296ab7ca8d4789c2b22a83e83b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations using Guid(b62d1296ab7ca8d4789c2b22a83e83b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad6ef9e01ef051cc70566913e5679dd7') in 0.004159 seconds
+  Import took 0.006509 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000307 seconds.
-  path: Assets/2D assets/TeamGunner_By_SecretHideout_060519/CHARACTER_SPRITES/Blue/Gunner_Blue_Jump.png
-  artifactKey: Guid(557d9ed315e2c274f892cb12d03555f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/TeamGunner_By_SecretHideout_060519/CHARACTER_SPRITES/Blue/Gunner_Blue_Jump.png using Guid(557d9ed315e2c274f892cb12d03555f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c06c42bbd8fbe803e41dbe096148d25c') in 0.013057 seconds
-  Import took 0.019216 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000540 seconds.
-  path: Assets/2D assets/TeamGunner_By_SecretHideout_060519/CHARACTER_SPRITES/Blue/Gunner_Blue_Run.png
-  artifactKey: Guid(54a08e0dda674bc4591b0b9918c3610f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/TeamGunner_By_SecretHideout_060519/CHARACTER_SPRITES/Blue/Gunner_Blue_Run.png using Guid(54a08e0dda674bc4591b0b9918c3610f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d1bdeaec25ae59c33889346cf4f8fe0') in 0.032168 seconds
-  Import took 0.036875 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000768 seconds.
-  path: Assets/2D assets/TeamGunner_By_SecretHideout_060519/CHARACTER_SPRITES/Blue/Gunner_Blue_Run.png
-  artifactKey: Guid(54a08e0dda674bc4591b0b9918c3610f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/TeamGunner_By_SecretHideout_060519/CHARACTER_SPRITES/Blue/Gunner_Blue_Run.png using Guid(54a08e0dda674bc4591b0b9918c3610f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d1bdeaec25ae59c33889346cf4f8fe0') in 0.022968 seconds
-  Import took 0.028096 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 18.439662 seconds.
-  path: Assets/2D assets/TeamGunner_By_SecretHideout_060519/CHARACTER_SPRITES/Blue/Idle.anim
-  artifactKey: Guid(301cc8d93ca565245b397dea12601d19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/TeamGunner_By_SecretHideout_060519/CHARACTER_SPRITES/Blue/Idle.anim using Guid(301cc8d93ca565245b397dea12601d19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a811d348cd1abf82148fc09fbff4229') in 0.008929 seconds
-  Import took 0.012726 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.011135 seconds.
-  path: Assets/2D assets/TeamGunner_By_SecretHideout_060519/CHARACTER_SPRITES/Blue/Idle.anim
-  artifactKey: Guid(301cc8d93ca565245b397dea12601d19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/TeamGunner_By_SecretHideout_060519/CHARACTER_SPRITES/Blue/Idle.anim using Guid(301cc8d93ca565245b397dea12601d19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a811d348cd1abf82148fc09fbff4229') in 0.002426 seconds
-  Import took 0.005494 seconds .
-
-========================================================================
-Received Prepare
-Refreshing native plugins compatible for Editor in 1.95 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 10 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 52.6 MB.
-System memory in use after: 52.5 MB.
-
-Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2267.
-Total: 5.387500 ms (FindLiveObjects: 0.601400 ms CreateObjectMapping: 0.274700 ms MarkObjects: 4.363700 ms  DeleteObjects: 0.143900 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 426.694120 seconds.
-  path: Assets/2D assets/TeamGunner_By_SecretHideout_060519/CHARACTER_SPRITES/Blue/Jump.anim
-  artifactKey: Guid(130b0f0952975354da788ea26ad390c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/TeamGunner_By_SecretHideout_060519/CHARACTER_SPRITES/Blue/Jump.anim using Guid(130b0f0952975354da788ea26ad390c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68c8af1c9dd3f3cb9169212640c164f7') in 0.019027 seconds
-  Import took 0.024062 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 75.752337 seconds.
-  path: Assets/2D assets/TeamGunner_By_SecretHideout_060519/CHARACTER_SPRITES/Blue/PlayerAnimator.controller
-  artifactKey: Guid(d5fc5bc7c29c66141a0c59d11a5a0b3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/TeamGunner_By_SecretHideout_060519/CHARACTER_SPRITES/Blue/PlayerAnimator.controller using Guid(d5fc5bc7c29c66141a0c59d11a5a0b3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0fd47e70c8276d9067a7829508bfe051') in 0.009177 seconds
-  Import took 0.013501 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.002069 seconds.
-  path: Assets/2D assets/TeamGunner_By_SecretHideout_060519/CHARACTER_SPRITES/Blue/PlayerAnimator.controller
-  artifactKey: Guid(d5fc5bc7c29c66141a0c59d11a5a0b3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/TeamGunner_By_SecretHideout_060519/CHARACTER_SPRITES/Blue/PlayerAnimator.controller using Guid(d5fc5bc7c29c66141a0c59d11a5a0b3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0fd47e70c8276d9067a7829508bfe051') in 0.003796 seconds
-  Import took 0.009234 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 24.760121 seconds.
-  path: Assets/2D assets/TeamGunner_By_SecretHideout_060519/CHARACTER_SPRITES/Blue/Run.anim
-  artifactKey: Guid(c8f3af08cdb8f844aae10cf5d61bcb35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/TeamGunner_By_SecretHideout_060519/CHARACTER_SPRITES/Blue/Run.anim using Guid(c8f3af08cdb8f844aae10cf5d61bcb35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5dd6e9403f31010694cf2ce3b02b28a7') in 0.003078 seconds
-  Import took 0.008089 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 45.305665 seconds.
-  path: Assets/2D assets/TeamGunner_By_SecretHideout_060519/CHARACTER_SPRITES/Blue/Jump.anim
-  artifactKey: Guid(130b0f0952975354da788ea26ad390c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/TeamGunner_By_SecretHideout_060519/CHARACTER_SPRITES/Blue/Jump.anim using Guid(130b0f0952975354da788ea26ad390c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '169070a746cb96009277b99e01113c84') in 0.005143 seconds
-  Import took 0.009000 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.031229 seconds.
-  path: Assets/2D assets/TeamGunner_By_SecretHideout_060519/CHARACTER_SPRITES/Blue/Jump.anim
-  artifactKey: Guid(130b0f0952975354da788ea26ad390c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/TeamGunner_By_SecretHideout_060519/CHARACTER_SPRITES/Blue/Jump.anim using Guid(130b0f0952975354da788ea26ad390c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '169070a746cb96009277b99e01113c84') in 0.002289 seconds
-  Import took 0.005336 seconds .
+  Time since last request: 0.001222 seconds.
+  path: Assets/Animations
+  artifactKey: Guid(b62d1296ab7ca8d4789c2b22a83e83b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations using Guid(b62d1296ab7ca8d4789c2b22a83e83b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad6ef9e01ef051cc70566913e5679dd7') in 0.001727 seconds
+  Import took 0.004284 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.001142 seconds.
+Registered in 0.000723 seconds.
 Begin MonoManager ReloadAssembly
-Native extension for Lumin target not found
-Native extension for LinuxStandalone target not found
 Native extension for WindowsStandalone target not found
-Native extension for OSXStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.35 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.993 seconds
+- Completed reload, in  0.642 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.38 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.33 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1803 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 88.5 MB.
-System memory in use after: 88.5 MB.
+Unloading 1807 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.2 MB.
+System memory in use after: 85.1 MB.
 
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2271.
-Total: 8.651700 ms (FindLiveObjects: 0.582700 ms CreateObjectMapping: 0.244800 ms MarkObjects: 7.562000 ms  DeleteObjects: 0.258300 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 270.728418 seconds.
-  path: Assets/2D assets/TeamGunner_By_SecretHideout_060519/CHARACTER_SPRITES/Blue/Gunner_Blue_Jump.png
-  artifactKey: Guid(557d9ed315e2c274f892cb12d03555f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/TeamGunner_By_SecretHideout_060519/CHARACTER_SPRITES/Blue/Gunner_Blue_Jump.png using Guid(557d9ed315e2c274f892cb12d03555f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5555e2b8a8bf0a9d993184c4b1f801b') in 0.054454 seconds
-  Import took 0.058595 seconds .
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2260.
+Total: 1.813700 ms (FindLiveObjects: 0.162300 ms CreateObjectMapping: 0.054700 ms MarkObjects: 1.504700 ms  DeleteObjects: 0.091100 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 26.759481 seconds.
-  path: Assets/2D assets/TeamGunner_By_SecretHideout_060519/CHARACTER_SPRITES/Blue/Gunner_Blue_Crouch.png
-  artifactKey: Guid(870a36a92abe31b4dbe90437cf4be22d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/TeamGunner_By_SecretHideout_060519/CHARACTER_SPRITES/Blue/Gunner_Blue_Crouch.png using Guid(870a36a92abe31b4dbe90437cf4be22d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c985c407aa6f158282d50c958fd34440') in 0.013391 seconds
-  Import took 0.017459 seconds .
+  Time since last request: 50.849424 seconds.
+  path: Assets/Animations/Level
+  artifactKey: Guid(46ac0cb7485ad5e49ae7a63453489ec2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Level using Guid(46ac0cb7485ad5e49ae7a63453489ec2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76e38563d808c54b3155a4f1e8cb34d6') in 0.005961 seconds
+  Import took 0.007909 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 118.368520 seconds.
-  path: Assets/2D assets/TeamGunner_By_SecretHideout_060519/CHARACTER_SPRITES/Blue/Gunner_Blue_Jump.png
-  artifactKey: Guid(557d9ed315e2c274f892cb12d03555f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/TeamGunner_By_SecretHideout_060519/CHARACTER_SPRITES/Blue/Gunner_Blue_Jump.png using Guid(557d9ed315e2c274f892cb12d03555f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '860fdb1d2db778e2ab49ed4e4fe123ee') in 0.037953 seconds
-  Import took 0.042962 seconds .
+  Time since last request: 15.351961 seconds.
+  path: Assets/Animations/Player
+  artifactKey: Guid(75a3c3ab8289ae141996fc732052f9b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Player using Guid(75a3c3ab8289ae141996fc732052f9b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2bf9acbc6003d091b8defb9a36b62ce0') in 0.004335 seconds
+  Import took 0.006628 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 464.748202 seconds.
-  path: Assets/2D assets/TeamGunner_By_SecretHideout_060519/CHARACTER_SPRITES/Blue/Jump.anim
-  artifactKey: Guid(130b0f0952975354da788ea26ad390c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/TeamGunner_By_SecretHideout_060519/CHARACTER_SPRITES/Blue/Jump.anim using Guid(130b0f0952975354da788ea26ad390c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1a734c3a6f17491a7f1e1815bdac6f9') in 0.006348 seconds
-  Import took 0.011555 seconds .
+  Time since last request: 9.316246 seconds.
+  path: Assets/Animations/Weapons
+  artifactKey: Guid(12ac911cd2f0e564b948c04586b356d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Weapons using Guid(12ac911cd2f0e564b948c04586b356d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f6f125824f3704d2a58197f3bebcb5c') in 0.004237 seconds
+  Import took 0.006779 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 90.080848 seconds.
+  path: Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/waveform/waveform-preview-big.gif
+  artifactKey: Guid(4e0e85df8a5096d4c994027a9433b6ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/waveform/waveform-preview-big.gif using Guid(4e0e85df8a5096d4c994027a9433b6ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b504dec33260cba075b271f762c545bf') in 0.106831 seconds
+  Import took 0.109290 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.549882 seconds.
+  path: Assets/Animations/Pulse
+  artifactKey: Guid(88c6ebaa6ffc7a2489b4ef701fc88e45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Pulse using Guid(88c6ebaa6ffc7a2489b4ef701fc88e45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45405625382f6606cc8fbd4efffd521a') in 0.004537 seconds
+  Import took 0.007005 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.735028 seconds.
+  path: Assets/Animations/crossed
+  artifactKey: Guid(c48bf80f945437642a8d7fc3bfd7cb54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/crossed using Guid(c48bf80f945437642a8d7fc3bfd7cb54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a26929ad75e24d849abea8d1be66e34c') in 0.004126 seconds
+  Import took 0.006517 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.379987 seconds.
+  path: Assets/Animations/charged
+  artifactKey: Guid(1203a407afbc3be42a1d9fe4fdc1a596) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/charged using Guid(1203a407afbc3be42a1d9fe4fdc1a596) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22b3a055c28645f49b7db89d9ff561bf') in 0.004488 seconds
+  Import took 0.006987 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.411572 seconds.
+  path: Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Music/warped-shooting-fx.mp3
+  artifactKey: Guid(82e6f828ddb6f6e48a29824e329c43b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Music/warped-shooting-fx.mp3 using Guid(82e6f828ddb6f6e48a29824e329c43b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '889ab17a27c9bbf4aecb111022b4fd10') in 0.047591 seconds
+  Import took 0.050071 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Music/warped-shooting-fx.wav
+  artifactKey: Guid(44aaf7572d4932c47af484715f738a27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Music/warped-shooting-fx.wav using Guid(44aaf7572d4932c47af484715f738a27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a46e6ee897fe54164c52b972c2be45b8') in 0.013262 seconds
+  Import took 0.015554 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000150 seconds.
+  path: Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Music/warped-shooting-fx.ogg
+  artifactKey: Guid(617b2986a5bbef4438bf6967c79818a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Music/warped-shooting-fx.ogg using Guid(617b2986a5bbef4438bf6967c79818a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03537506510a6dd6fa6f55177ae5598b') in 0.014433 seconds
+  Import took 0.016744 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 156.142859 seconds.
+  path: Assets/Animations/Player/Blue/PlayerAnimator.controller
+  artifactKey: Guid(d5fc5bc7c29c66141a0c59d11a5a0b3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Player/Blue/PlayerAnimator.controller using Guid(d5fc5bc7c29c66141a0c59d11a5a0b3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40e06de1a597d7c4f9de4763bd3e2bd8') in 0.005311 seconds
+  Import took 0.008243 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.001307 seconds.
+Registered in 0.000632 seconds.
 Begin MonoManager ReloadAssembly
-Native extension for Lumin target not found
-Native extension for LinuxStandalone target not found
 Native extension for WindowsStandalone target not found
-Native extension for OSXStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.416 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.64 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1803 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 88.6 MB.
-System memory in use after: 88.5 MB.
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2280.
-Total: 3.093000 ms (FindLiveObjects: 0.249400 ms CreateObjectMapping: 0.109200 ms MarkObjects: 2.562400 ms  DeleteObjects: 0.169300 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001246 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for Lumin target not found
-Native extension for LinuxStandalone target not found
-Native extension for WindowsStandalone target not found
-Native extension for OSXStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.52 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.063 seconds
+- Completed reload, in  0.651 seconds
 Platform modules already initialized, skipping
 Refreshing native plugins compatible for Editor in 0.35 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1803 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 1807 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.3 MB.
+System memory in use after: 88.3 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2276.
+Total: 1.843300 ms (FindLiveObjects: 0.168200 ms CreateObjectMapping: 0.056900 ms MarkObjects: 1.534200 ms  DeleteObjects: 0.083400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 608.881555 seconds.
+  path: Assets/Animations/Player/Blue/PlayerAnimator.controller
+  artifactKey: Guid(d5fc5bc7c29c66141a0c59d11a5a0b3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Player/Blue/PlayerAnimator.controller using Guid(d5fc5bc7c29c66141a0c59d11a5a0b3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0815b2e1347de5c58d6987cc1e0b4fb') in 0.012467 seconds
+  Import took 0.015508 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000552 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.639 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1807 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.4 MB.
+System memory in use after: 88.3 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2280.
+Total: 1.626200 ms (FindLiveObjects: 0.156000 ms CreateObjectMapping: 0.052200 ms MarkObjects: 1.330300 ms  DeleteObjects: 0.086600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000604 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.632 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1807 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.4 MB.
+System memory in use after: 88.3 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2284.
+Total: 1.696200 ms (FindLiveObjects: 0.186600 ms CreateObjectMapping: 0.065500 ms MarkObjects: 1.351800 ms  DeleteObjects: 0.091300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000620 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.640 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.33 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1807 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.4 MB.
+System memory in use after: 88.4 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2288.
+Total: 1.749400 ms (FindLiveObjects: 0.210800 ms CreateObjectMapping: 0.062100 ms MarkObjects: 1.382000 ms  DeleteObjects: 0.093200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000598 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.35 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.631 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1807 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.4 MB.
+System memory in use after: 88.4 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2292.
+Total: 1.738500 ms (FindLiveObjects: 0.192900 ms CreateObjectMapping: 0.064400 ms MarkObjects: 1.384800 ms  DeleteObjects: 0.095200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000683 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.648 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.36 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1807 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.4 MB.
+System memory in use after: 88.4 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2296.
+Total: 1.861200 ms (FindLiveObjects: 0.192900 ms CreateObjectMapping: 0.067900 ms MarkObjects: 1.481900 ms  DeleteObjects: 0.117400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000611 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.643 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1807 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.4 MB.
+System memory in use after: 88.4 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2300.
+Total: 2.420500 ms (FindLiveObjects: 0.249300 ms CreateObjectMapping: 0.087000 ms MarkObjects: 1.974600 ms  DeleteObjects: 0.108200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000705 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.654 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1807 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.4 MB.
+System memory in use after: 88.4 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2304.
+Total: 1.646200 ms (FindLiveObjects: 0.179500 ms CreateObjectMapping: 0.060900 ms MarkObjects: 1.317600 ms  DeleteObjects: 0.087600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000636 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.621 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.35 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1807 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.4 MB.
+System memory in use after: 88.4 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2308.
+Total: 1.660200 ms (FindLiveObjects: 0.171100 ms CreateObjectMapping: 0.063200 ms MarkObjects: 1.343200 ms  DeleteObjects: 0.082200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000686 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.627 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.35 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1807 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.4 MB.
+System memory in use after: 88.4 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2312.
+Total: 1.853000 ms (FindLiveObjects: 0.184700 ms CreateObjectMapping: 0.057400 ms MarkObjects: 1.518400 ms  DeleteObjects: 0.091700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000608 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.628 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.35 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1807 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.4 MB.
+System memory in use after: 88.4 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2316.
+Total: 2.100600 ms (FindLiveObjects: 0.218100 ms CreateObjectMapping: 0.075600 ms MarkObjects: 1.684700 ms  DeleteObjects: 0.121400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1594.223562 seconds.
+  path: Assets/Scripts/CameraController.cs
+  artifactKey: Guid(5b12bba8d6fb6a24d9c1a39bc3185540) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/CameraController.cs using Guid(5b12bba8d6fb6a24d9c1a39bc3185540) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '577c4ecd2e08ecb5a4f547921210e0c5') in 0.010079 seconds
+  Import took 0.013187 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000652 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.653 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.35 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1808 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.5 MB.
+System memory in use after: 88.5 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2321.
+Total: 1.946600 ms (FindLiveObjects: 0.195000 ms CreateObjectMapping: 0.066700 ms MarkObjects: 1.578500 ms  DeleteObjects: 0.105700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.857541 seconds.
+  path: Assets/Scripts/CharController2D.cs
+  artifactKey: Guid(3b00fec6b0c8dc3479c85bb8cf43b651) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/CharController2D.cs using Guid(3b00fec6b0c8dc3479c85bb8cf43b651) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ee7d797be45a8fd1d9d742e00c0d8c8') in 0.006234 seconds
+  Import took 0.008836 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.018527 seconds.
+  path: Assets/Scripts/CharController2D.cs
+  artifactKey: Guid(3b00fec6b0c8dc3479c85bb8cf43b651) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/CharController2D.cs using Guid(3b00fec6b0c8dc3479c85bb8cf43b651) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ee7d797be45a8fd1d9d742e00c0d8c8') in 0.001612 seconds
+  Import took 0.004758 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000681 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.649 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1808 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.5 MB.
+System memory in use after: 88.5 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2325.
+Total: 1.914100 ms (FindLiveObjects: 0.197600 ms CreateObjectMapping: 0.070100 ms MarkObjects: 1.549500 ms  DeleteObjects: 0.096100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 81.671383 seconds.
+  path: Assets/Scripts/CameraController.cs
+  artifactKey: Guid(5b12bba8d6fb6a24d9c1a39bc3185540) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/CameraController.cs using Guid(5b12bba8d6fb6a24d9c1a39bc3185540) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2aca31407dff2dd161847fcaa9bf1295') in 0.003689 seconds
+  Import took 0.005923 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000613 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.644 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.33 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1808 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.5 MB.
+System memory in use after: 88.5 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2329.
+Total: 1.625600 ms (FindLiveObjects: 0.172000 ms CreateObjectMapping: 0.055700 ms MarkObjects: 1.308700 ms  DeleteObjects: 0.088000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000617 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.35 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.640 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1808 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.5 MB.
+System memory in use after: 88.5 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2333.
+Total: 1.657900 ms (FindLiveObjects: 0.162100 ms CreateObjectMapping: 0.053200 ms MarkObjects: 1.361400 ms  DeleteObjects: 0.080800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000603 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.668 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1808 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.5 MB.
+System memory in use after: 88.5 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2337.
+Total: 1.879900 ms (FindLiveObjects: 0.212600 ms CreateObjectMapping: 0.063400 ms MarkObjects: 1.509800 ms  DeleteObjects: 0.093000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000795 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.47 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.639 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1808 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.5 MB.
+System memory in use after: 88.5 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2341.
+Total: 2.051800 ms (FindLiveObjects: 0.209700 ms CreateObjectMapping: 0.072900 ms MarkObjects: 1.653800 ms  DeleteObjects: 0.114000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000546 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.648 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1808 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.5 MB.
+System memory in use after: 88.5 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2345.
+Total: 1.720000 ms (FindLiveObjects: 0.177600 ms CreateObjectMapping: 0.059300 ms MarkObjects: 1.383700 ms  DeleteObjects: 0.097900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000660 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.628 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1808 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.5 MB.
+System memory in use after: 88.5 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2349.
+Total: 2.129500 ms (FindLiveObjects: 0.216100 ms CreateObjectMapping: 0.079600 ms MarkObjects: 1.725100 ms  DeleteObjects: 0.107700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000547 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.645 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1808 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.6 MB.
+System memory in use after: 88.5 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2353.
+Total: 1.650800 ms (FindLiveObjects: 0.176300 ms CreateObjectMapping: 0.056100 ms MarkObjects: 1.325300 ms  DeleteObjects: 0.092100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000637 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.35 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.631 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1808 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.6 MB.
+System memory in use after: 88.5 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2357.
+Total: 2.082300 ms (FindLiveObjects: 0.378100 ms CreateObjectMapping: 0.074300 ms MarkObjects: 1.540200 ms  DeleteObjects: 0.089000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000608 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.655 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1808 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 88.6 MB.
 System memory in use after: 88.6 MB.
 
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2284.
-Total: 2.221500 ms (FindLiveObjects: 0.158100 ms CreateObjectMapping: 0.053700 ms MarkObjects: 1.889000 ms  DeleteObjects: 0.119100 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 268.813790 seconds.
-  path: Assets/2D assets/TeamGunner_By_SecretHideout_060519/CHARACTER_SPRITES/Blue/Gunner_Blue_Death.png
-  artifactKey: Guid(bb4b956da03d3374db6a374d57d72827) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/TeamGunner_By_SecretHideout_060519/CHARACTER_SPRITES/Blue/Gunner_Blue_Death.png using Guid(bb4b956da03d3374db6a374d57d72827) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44bfc11d83f0eff3be0743810ab002dd') in 0.072418 seconds
-  Import took 0.075597 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 28.328032 seconds.
-  path: Assets/2D assets/TeamGunner_By_SecretHideout_060519/CHARACTER_SPRITES/Blue/Death.anim
-  artifactKey: Guid(028e458fb923cde40a9939cdec14441f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/TeamGunner_By_SecretHideout_060519/CHARACTER_SPRITES/Blue/Death.anim using Guid(028e458fb923cde40a9939cdec14441f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '482499e96d12e2cc7a998c67c60abedf') in 0.006619 seconds
-  Import took 0.010896 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 242.314486 seconds.
-  path: Assets/2D assets/TeamGunner_By_SecretHideout_060519/CHARACTER_SPRITES/Blue/Gunner_Blue_Crouch.png
-  artifactKey: Guid(870a36a92abe31b4dbe90437cf4be22d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/TeamGunner_By_SecretHideout_060519/CHARACTER_SPRITES/Blue/Gunner_Blue_Crouch.png using Guid(870a36a92abe31b4dbe90437cf4be22d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9777dfb5134a83cd2f48105d8f7448b2') in 0.029512 seconds
-  Import took 0.034575 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 25.916885 seconds.
-  path: Assets/2D assets/TeamGunner_By_SecretHideout_060519/CHARACTER_SPRITES/Blue/Crouch.anim
-  artifactKey: Guid(9fafadbe755f4fa42a05362b91827a8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/TeamGunner_By_SecretHideout_060519/CHARACTER_SPRITES/Blue/Crouch.anim using Guid(9fafadbe755f4fa42a05362b91827a8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21f2f69f2b5014201d0686eac67a01e7') in 0.009376 seconds
-  Import took 0.013468 seconds .
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2361.
+Total: 2.103600 ms (FindLiveObjects: 0.187300 ms CreateObjectMapping: 0.066000 ms MarkObjects: 1.744600 ms  DeleteObjects: 0.105000 ms)
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.001118 seconds.
+Registered in 0.000743 seconds.
 Begin MonoManager ReloadAssembly
-Native extension for Lumin target not found
-Native extension for LinuxStandalone target not found
 Native extension for WindowsStandalone target not found
-Native extension for OSXStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.36 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.178 seconds
+- Completed reload, in  0.639 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.64 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.35 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1803 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 88.7 MB.
+Unloading 1808 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.6 MB.
 System memory in use after: 88.6 MB.
 
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2305.
-Total: 2.344500 ms (FindLiveObjects: 0.200500 ms CreateObjectMapping: 0.075900 ms MarkObjects: 1.956600 ms  DeleteObjects: 0.110700 ms)
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2365.
+Total: 2.306300 ms (FindLiveObjects: 0.272800 ms CreateObjectMapping: 0.111700 ms MarkObjects: 1.811900 ms  DeleteObjects: 0.109000 ms)
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.001150 seconds.
+Registered in 0.000692 seconds.
 Begin MonoManager ReloadAssembly
-Native extension for Lumin target not found
-Native extension for LinuxStandalone target not found
 Native extension for WindowsStandalone target not found
-Native extension for OSXStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.40 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.147 seconds
+- Completed reload, in  0.633 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1803 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 88.7 MB.
-System memory in use after: 88.7 MB.
+Unloading 1808 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.6 MB.
+System memory in use after: 88.6 MB.
 
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2309.
-Total: 2.563700 ms (FindLiveObjects: 0.203000 ms CreateObjectMapping: 0.083400 ms MarkObjects: 2.159700 ms  DeleteObjects: 0.116400 ms)
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2369.
+Total: 1.977300 ms (FindLiveObjects: 0.230800 ms CreateObjectMapping: 0.068600 ms MarkObjects: 1.579400 ms  DeleteObjects: 0.097500 ms)
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.001123 seconds.
+Registered in 0.000830 seconds.
 Begin MonoManager ReloadAssembly
-Native extension for Lumin target not found
-Native extension for LinuxStandalone target not found
 Native extension for WindowsStandalone target not found
-Native extension for OSXStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.36 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.225 seconds
+- Completed reload, in  0.631 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1803 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 88.7 MB.
-System memory in use after: 88.7 MB.
+Unloading 1808 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.6 MB.
+System memory in use after: 88.6 MB.
 
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2313.
-Total: 2.520700 ms (FindLiveObjects: 0.243400 ms CreateObjectMapping: 0.095800 ms MarkObjects: 2.070400 ms  DeleteObjects: 0.110000 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 137.768000 seconds.
-  path: Assets/2D assets/TeamGunner_By_SecretHideout_060519/CHARACTER_SPRITES/Blue/PlayerAnimator.controller
-  artifactKey: Guid(d5fc5bc7c29c66141a0c59d11a5a0b3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/TeamGunner_By_SecretHideout_060519/CHARACTER_SPRITES/Blue/PlayerAnimator.controller using Guid(d5fc5bc7c29c66141a0c59d11a5a0b3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63db5e3570e4d0cccea6cb4806b98595') in 0.024038 seconds
-  Import took 0.028443 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 12.678377 seconds.
-  path: Assets/2D assets/TeamGunner_By_SecretHideout_060519/CHARACTER_SPRITES/Black/Gunner_Black_Crouch.png
-  artifactKey: Guid(38ff44e999809c044925519b9e3c597e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/TeamGunner_By_SecretHideout_060519/CHARACTER_SPRITES/Black/Gunner_Black_Crouch.png using Guid(38ff44e999809c044925519b9e3c597e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '787023b418d53768c7535cfe74f85efe') in 0.047669 seconds
-  Import took 0.050863 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000301 seconds.
-  path: Assets/2D assets/TeamGunner_By_SecretHideout_060519/CHARACTER_SPRITES/Black/Gunner_Black_Death.png
-  artifactKey: Guid(b59842fd74ecfaf489093d86dbc6d95e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/TeamGunner_By_SecretHideout_060519/CHARACTER_SPRITES/Black/Gunner_Black_Death.png using Guid(b59842fd74ecfaf489093d86dbc6d95e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2acad0fee38a542e05f33576f196a6cc') in 0.014566 seconds
-  Import took 0.018300 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000260 seconds.
-  path: Assets/2D assets/TeamGunner_By_SecretHideout_060519/CHARACTER_SPRITES/Black/Gunner_Black_Jump.png
-  artifactKey: Guid(582fad844fd931c4eb83080a66320c07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/TeamGunner_By_SecretHideout_060519/CHARACTER_SPRITES/Black/Gunner_Black_Jump.png using Guid(582fad844fd931c4eb83080a66320c07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f44ef155e9e49135c617bce7b02096a') in 0.013432 seconds
-  Import took 0.018233 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000427 seconds.
-  path: Assets/2D assets/TeamGunner_By_SecretHideout_060519/CHARACTER_SPRITES/Black/Gunner_Black_Run.png
-  artifactKey: Guid(be1e37362ebb5ba418440fe09e8a5fad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/TeamGunner_By_SecretHideout_060519/CHARACTER_SPRITES/Black/Gunner_Black_Run.png using Guid(be1e37362ebb5ba418440fe09e8a5fad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2dc3e0afcbfe573c16baf60ce87a57c1') in 0.012382 seconds
-  Import took 0.016221 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000264 seconds.
-  path: Assets/2D assets/TeamGunner_By_SecretHideout_060519/CHARACTER_SPRITES/Black/Gunner_Black_Idle.png
-  artifactKey: Guid(3fe469047b0ed6342a12d03296b9e27f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/TeamGunner_By_SecretHideout_060519/CHARACTER_SPRITES/Black/Gunner_Black_Idle.png using Guid(3fe469047b0ed6342a12d03296b9e27f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b52fb3c18b67e68bc51d1d7fd4b6e81') in 0.014937 seconds
-  Import took 0.019191 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 90.780808 seconds.
-  path: Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart
-  artifactKey: Guid(4cc0a86f83cd278479cc71ed96118a94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart using Guid(4cc0a86f83cd278479cc71ed96118a94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7eed2b83a1395465edf13565eac515a6') in 0.002034 seconds
-  Import took 0.005861 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.223277 seconds.
-  path: Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/Bolt
-  artifactKey: Guid(76277af769074714390fd005132b4de1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/Bolt using Guid(76277af769074714390fd005132b4de1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33f418d52e5a342e2f95eb0dae95f99b') in 0.004073 seconds
-  Import took 0.008105 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.108546 seconds.
-  path: Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/Bolt/bolt-preview-big.gif
-  artifactKey: Guid(c5b27aae8e0521a4bafba951183bb30a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/Bolt/bolt-preview-big.gif using Guid(c5b27aae8e0521a4bafba951183bb30a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '833a62121f1ed3537156409bbf855168') in 0.024793 seconds
-  Import took 0.029135 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000369 seconds.
-  path: Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/Bolt/bolt-previewt.gif
-  artifactKey: Guid(1502bd2c435a0f14e94631f9c39f992f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/Bolt/bolt-previewt.gif using Guid(1502bd2c435a0f14e94631f9c39f992f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b1ba1fe55748dcbf3e82665eea5db6e') in 0.014981 seconds
-  Import took 0.018162 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 7.848479 seconds.
-  path: Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/Bolt/frames
-  artifactKey: Guid(a0a190e18bb4a7d499dcf458125fdbef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/Bolt/frames using Guid(a0a190e18bb4a7d499dcf458125fdbef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22c4de0181b290cf89e6483ce201dec9') in 0.004275 seconds
-  Import took 0.008276 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.155617 seconds.
-  path: Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/Bolt/frames/bolt1.png
-  artifactKey: Guid(1b131ab489d1b214cb3b22c9a1e80245) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/Bolt/frames/bolt1.png using Guid(1b131ab489d1b214cb3b22c9a1e80245) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c95e76a212bded1fcba6f93d3e997d27') in 0.009941 seconds
-  Import took 0.013444 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000307 seconds.
-  path: Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/Bolt/frames/bolt2.png
-  artifactKey: Guid(86662a5f2de34e94687366b48b413b67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/Bolt/frames/bolt2.png using Guid(86662a5f2de34e94687366b48b413b67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1f795d11e6b6dc3f66fcb23f1a0ac5a') in 0.008729 seconds
-  Import took 0.013585 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000719 seconds.
-  path: Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/Bolt/frames/bolt3.png
-  artifactKey: Guid(bd3c1069d01282c4e836952a7e3a75f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/Bolt/frames/bolt3.png using Guid(bd3c1069d01282c4e836952a7e3a75f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c0eb1c99c32fba9bd37b099291b7c01') in 0.010254 seconds
-  Import took 0.014959 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000482 seconds.
-  path: Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/Bolt/frames/bolt4.png
-  artifactKey: Guid(f0fa9b9bf0ad67f45bc02b87651b0e1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/Bolt/frames/bolt4.png using Guid(f0fa9b9bf0ad67f45bc02b87651b0e1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f0b43736868be912712a93b9c7c4108') in 0.016808 seconds
-  Import took 0.021168 seconds .
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2373.
+Total: 1.695600 ms (FindLiveObjects: 0.188500 ms CreateObjectMapping: 0.066500 ms MarkObjects: 1.356300 ms  DeleteObjects: 0.083500 ms)
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.001090 seconds.
+Registered in 0.000566 seconds.
 Begin MonoManager ReloadAssembly
-Native extension for Lumin target not found
-Native extension for LinuxStandalone target not found
 Native extension for WindowsStandalone target not found
-Native extension for OSXStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.38 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.35 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.092 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.38 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1803 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 88.7 MB.
-System memory in use after: 88.7 MB.
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2325.
-Total: 2.598900 ms (FindLiveObjects: 0.225800 ms CreateObjectMapping: 0.064200 ms MarkObjects: 2.196500 ms  DeleteObjects: 0.111200 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 133.144081 seconds.
-  path: Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/Bolt/frames/bolt.anim
-  artifactKey: Guid(c58b9e36f5016494da77e77e64577795) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/Bolt/frames/bolt.anim using Guid(c58b9e36f5016494da77e77e64577795) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2d7c6f91f05ca571ee3397b12b60a61') in 0.024460 seconds
-  Import took 0.030225 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001159 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for Lumin target not found
-Native extension for LinuxStandalone target not found
-Native extension for WindowsStandalone target not found
-Native extension for OSXStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.40 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.211 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.55 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1803 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 88.7 MB.
-System memory in use after: 88.7 MB.
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2329.
-Total: 2.666900 ms (FindLiveObjects: 0.313900 ms CreateObjectMapping: 0.119300 ms MarkObjects: 2.125100 ms  DeleteObjects: 0.107500 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001747 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for Lumin target not found
-Native extension for LinuxStandalone target not found
-Native extension for WindowsStandalone target not found
-Native extension for OSXStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.034 seconds
+- Completed reload, in  0.640 seconds
 Platform modules already initialized, skipping
 Refreshing native plugins compatible for Editor in 0.39 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1803 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 88.8 MB.
-System memory in use after: 88.7 MB.
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2333.
-Total: 2.105200 ms (FindLiveObjects: 0.209600 ms CreateObjectMapping: 0.072200 ms MarkObjects: 1.718600 ms  DeleteObjects: 0.103900 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 86.241298 seconds.
-  path: Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/Bolt/frames/boltAnimator.controller
-  artifactKey: Guid(53974da0dc8a35c4ba8bf85f73958ab7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/Bolt/frames/boltAnimator.controller using Guid(53974da0dc8a35c4ba8bf85f73958ab7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfa22fd0efd6bdc121953f6dd9e4a8ea') in 0.037473 seconds
-  Import took 0.044922 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001259 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for Lumin target not found
-Native extension for LinuxStandalone target not found
-Native extension for WindowsStandalone target not found
-Native extension for OSXStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.061 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.39 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1803 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 88.8 MB.
-System memory in use after: 88.7 MB.
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2337.
-Total: 2.355700 ms (FindLiveObjects: 0.266400 ms CreateObjectMapping: 0.124000 ms MarkObjects: 1.834000 ms  DeleteObjects: 0.129800 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 86.793947 seconds.
-  path: Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/Bolt/frames/bolt.anim
-  artifactKey: Guid(c58b9e36f5016494da77e77e64577795) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/Bolt/frames/bolt.anim using Guid(c58b9e36f5016494da77e77e64577795) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '316e58639a4e2b47aa75497aba216724') in 0.018931 seconds
-  Import took 0.022393 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002244 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for Lumin target not found
-Native extension for LinuxStandalone target not found
-Native extension for WindowsStandalone target not found
-Native extension for OSXStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.40 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.076 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.53 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1803 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 88.8 MB.
-System memory in use after: 88.7 MB.
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2341.
-Total: 2.785800 ms (FindLiveObjects: 0.203900 ms CreateObjectMapping: 0.084300 ms MarkObjects: 2.322200 ms  DeleteObjects: 0.174000 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 153.862737 seconds.
-  path: Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/Bolt/frames/bolt1.png
-  artifactKey: Guid(1b131ab489d1b214cb3b22c9a1e80245) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/Bolt/frames/bolt1.png using Guid(1b131ab489d1b214cb3b22c9a1e80245) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f006c578b2834f951d824d21b6d45d95') in 0.054605 seconds
-  Import took 0.061837 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 2.638438 seconds.
-  path: Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/Bolt/frames/bolt2.png
-  artifactKey: Guid(86662a5f2de34e94687366b48b413b67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/Bolt/frames/bolt2.png using Guid(86662a5f2de34e94687366b48b413b67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '314094b9e13b038ef0c728e2b3621ab3') in 0.009974 seconds
-  Import took 0.013810 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 10.473180 seconds.
-  path: Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/Bolt/frames/bolt3.png
-  artifactKey: Guid(bd3c1069d01282c4e836952a7e3a75f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/Bolt/frames/bolt3.png using Guid(bd3c1069d01282c4e836952a7e3a75f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c77385bfa7e2b5aa14dece60df907211') in 0.010374 seconds
-  Import took 0.013974 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 10.751709 seconds.
-  path: Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/Bolt/frames/bolt4.png
-  artifactKey: Guid(f0fa9b9bf0ad67f45bc02b87651b0e1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/Bolt/frames/bolt4.png using Guid(f0fa9b9bf0ad67f45bc02b87651b0e1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6af969ff46516fb9d01b81d38c89b710') in 0.010944 seconds
-  Import took 0.014739 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 42.899224 seconds.
-  path: Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/Bolt/frames/bolt1.png
-  artifactKey: Guid(1b131ab489d1b214cb3b22c9a1e80245) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/Bolt/frames/bolt1.png using Guid(1b131ab489d1b214cb3b22c9a1e80245) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d696551ecf02c5b6cc5afaa5f148a6a') in 0.038982 seconds
-  Import took 0.042966 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000308 seconds.
-  path: Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/Bolt/frames/bolt2.png
-  artifactKey: Guid(86662a5f2de34e94687366b48b413b67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/Bolt/frames/bolt2.png using Guid(86662a5f2de34e94687366b48b413b67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4548111242cef1ed525d5e00819370f0') in 0.013549 seconds
-  Import took 0.016848 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000263 seconds.
-  path: Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/Bolt/frames/bolt3.png
-  artifactKey: Guid(bd3c1069d01282c4e836952a7e3a75f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/Bolt/frames/bolt3.png using Guid(bd3c1069d01282c4e836952a7e3a75f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f8092c0d74390761673fce03179c049') in 0.018787 seconds
-  Import took 0.023238 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000426 seconds.
-  path: Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/Bolt/frames/bolt4.png
-  artifactKey: Guid(f0fa9b9bf0ad67f45bc02b87651b0e1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/Bolt/frames/bolt4.png using Guid(f0fa9b9bf0ad67f45bc02b87651b0e1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79549dca98b27b02843d6865f8c17a98') in 0.016624 seconds
-  Import took 0.023150 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001202 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for Lumin target not found
-Native extension for LinuxStandalone target not found
-Native extension for WindowsStandalone target not found
-Native extension for OSXStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.53 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.131 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.40 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1803 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 88.8 MB.
-System memory in use after: 88.8 MB.
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2346.
-Total: 2.819600 ms (FindLiveObjects: 0.387400 ms CreateObjectMapping: 0.118200 ms MarkObjects: 2.134700 ms  DeleteObjects: 0.177600 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 116.808214 seconds.
-  path: Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/Bolt/bolt.aseprite
-  artifactKey: Guid(679e8570e544f2941a114393a125d7d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/Bolt/bolt.aseprite using Guid(679e8570e544f2941a114393a125d7d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7a7b63e68f6e4f6f9fc686a1f08525a') in 0.018952 seconds
-  Import took 0.022442 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 5.983300 seconds.
-  path: Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/charged/frames/charged1.png
-  artifactKey: Guid(e6976bf78d101384f94589688815c18f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/charged/frames/charged1.png using Guid(e6976bf78d101384f94589688815c18f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c920107fdcb7c2b4910dacc81ef7af76') in 0.048813 seconds
-  Import took 0.052064 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000233 seconds.
-  path: Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/charged/frames/charged2.png
-  artifactKey: Guid(784ce9bfe4f35044b9cf2f1cef944452) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/charged/frames/charged2.png using Guid(784ce9bfe4f35044b9cf2f1cef944452) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7f39a544f0fe7aa4df3e781e1193ac8') in 0.011907 seconds
-  Import took 0.016691 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000308 seconds.
-  path: Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/charged/frames/charged3.png
-  artifactKey: Guid(ccdcb35808a38e94491acc2718ebc1db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/charged/frames/charged3.png using Guid(ccdcb35808a38e94491acc2718ebc1db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd279ace305cf400dd188892ee6897738') in 0.009913 seconds
-  Import took 0.013694 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000265 seconds.
-  path: Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/charged/frames/charged5.png
-  artifactKey: Guid(3b414c8b60690c44bb8fe44add468e59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/charged/frames/charged5.png using Guid(3b414c8b60690c44bb8fe44add468e59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24f96fc55bedba21a49dad0b4cd84653') in 0.011004 seconds
-  Import took 0.015537 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000256 seconds.
-  path: Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/charged/frames/charged4.png
-  artifactKey: Guid(d00886f8351301048bee970846e29c3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/charged/frames/charged4.png using Guid(d00886f8351301048bee970846e29c3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc5a04a23026d909253c9f3b66476a8e') in 0.016075 seconds
-  Import took 0.020506 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000600 seconds.
-  path: Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/charged/frames/charged6.png
-  artifactKey: Guid(154e0c51ca9a4534ca42ebc9873567c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/charged/frames/charged6.png using Guid(154e0c51ca9a4534ca42ebc9873567c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fce063e537e0c59a20de9d8ee1ec347f') in 0.009352 seconds
-  Import took 0.015241 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 3.322074 seconds.
-  path: Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/charged/charged-preview-big.gif
-  artifactKey: Guid(59b60905f54f2e0459836e16d95d65f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/charged/charged-preview-big.gif using Guid(59b60905f54f2e0459836e16d95d65f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ef10b0981543c31ed9cde783b21b430') in 0.019519 seconds
-  Import took 0.023149 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000346 seconds.
-  path: Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/charged/charged-preview.gif
-  artifactKey: Guid(de685f9d499fa024b8024297fa900bb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/charged/charged-preview.gif using Guid(de685f9d499fa024b8024297fa900bb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3dda2df76b51d21313762da3889f3c34') in 0.012609 seconds
-  Import took 0.016875 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.864525 seconds.
-  path: Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/charged/frames
-  artifactKey: Guid(5408a5d76b6e4f34ba8f08e2270e0530) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/charged/frames using Guid(5408a5d76b6e4f34ba8f08e2270e0530) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bed237e90029acf9fb9f7ca382e24c0c') in 0.001951 seconds
-  Import took 0.008188 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001099 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for Lumin target not found
-Native extension for LinuxStandalone target not found
-Native extension for WindowsStandalone target not found
-Native extension for OSXStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.39 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.174 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1803 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 88.8 MB.
-System memory in use after: 88.8 MB.
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2355.
-Total: 2.533200 ms (FindLiveObjects: 0.294200 ms CreateObjectMapping: 0.109900 ms MarkObjects: 2.018600 ms  DeleteObjects: 0.109200 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002585 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for Lumin target not found
-Native extension for LinuxStandalone target not found
-Native extension for WindowsStandalone target not found
-Native extension for OSXStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.062 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.38 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1803 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 88.8 MB.
-System memory in use after: 88.8 MB.
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2359.
-Total: 2.924200 ms (FindLiveObjects: 0.333700 ms CreateObjectMapping: 0.169300 ms MarkObjects: 2.274500 ms  DeleteObjects: 0.144300 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 136.565092 seconds.
-  path: Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/charged/frames/charged.controller
-  artifactKey: Guid(5161722bb7125e94da066995238169a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/charged/frames/charged.controller using Guid(5161722bb7125e94da066995238169a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e1627a7dc7217489b7a3101c233ef31') in 0.018074 seconds
-  Import took 0.021486 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 16.643871 seconds.
-  path: Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/charged/frames/chargedAnimator.controller
-  artifactKey: Guid(5161722bb7125e94da066995238169a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/charged/frames/chargedAnimator.controller using Guid(5161722bb7125e94da066995238169a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c33fb0f922e03c755dde780a7a41195') in 0.003537 seconds
-  Import took 0.007095 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 27.610085 seconds.
-  path: Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/charged/frames/charged.anim
-  artifactKey: Guid(a343f849781dcf14796f8812570fe5cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/charged/frames/charged.anim using Guid(a343f849781dcf14796f8812570fe5cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7ee801d6736a6035fb56db3d735ab37') in 0.008079 seconds
-  Import took 0.011837 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 70.781095 seconds.
-  path: Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/crossed/frames/crossed1.png
-  artifactKey: Guid(dbc7cf78c72451a43a1ac43d25956557) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/crossed/frames/crossed1.png using Guid(dbc7cf78c72451a43a1ac43d25956557) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4de669594091be30d251805b1350af4b') in 0.051892 seconds
-  Import took 0.054992 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000286 seconds.
-  path: Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/crossed/frames/crossed5.png
-  artifactKey: Guid(c7b7ca1d4abe0394ab68f158a260dd72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/crossed/frames/crossed5.png using Guid(c7b7ca1d4abe0394ab68f158a260dd72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b73b392c7bcaeaca51d97972552ebd9') in 0.009298 seconds
-  Import took 0.012246 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000266 seconds.
-  path: Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/crossed/frames/crossed2.png
-  artifactKey: Guid(ff3ee9d9a85f97642ba09bbbf4044cd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/crossed/frames/crossed2.png using Guid(ff3ee9d9a85f97642ba09bbbf4044cd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4eb654e22a59d22c9414f703d762d506') in 0.009697 seconds
-  Import took 0.013258 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000261 seconds.
-  path: Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/crossed/frames/crossed3.png
-  artifactKey: Guid(0993a86be0e11fb4a8e86f56f868a4eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/crossed/frames/crossed3.png using Guid(0993a86be0e11fb4a8e86f56f868a4eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e21883a08da884bdc621a09e82d57c8d') in 0.010946 seconds
-  Import took 0.014957 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000293 seconds.
-  path: Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/crossed/frames/crossed6.png
-  artifactKey: Guid(15170dcc2855d12488be87de7038a6c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/crossed/frames/crossed6.png using Guid(15170dcc2855d12488be87de7038a6c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84fd74a2818ef84cd6151bbac2d4129f') in 0.009296 seconds
-  Import took 0.013450 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000217 seconds.
-  path: Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/crossed/frames/crossed4.png
-  artifactKey: Guid(0878bf87c21e1984086bd37ea10ab2c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/crossed/frames/crossed4.png using Guid(0878bf87c21e1984086bd37ea10ab2c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fda6c936ebe19fb02b9799bd27223df') in 0.010447 seconds
-  Import took 0.015694 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 8.390041 seconds.
-  path: Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/crossed/frames
-  artifactKey: Guid(a0e9f0fefd9b50a4dba15defbbd92e73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/crossed/frames using Guid(a0e9f0fefd9b50a4dba15defbbd92e73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de653edcfae6846484e021190783e767') in 0.002408 seconds
-  Import took 0.007058 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001417 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for Lumin target not found
-Native extension for LinuxStandalone target not found
-Native extension for WindowsStandalone target not found
-Native extension for OSXStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.080 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.39 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1803 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 88.9 MB.
-System memory in use after: 88.8 MB.
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2366.
-Total: 2.309300 ms (FindLiveObjects: 0.218900 ms CreateObjectMapping: 0.084100 ms MarkObjects: 1.892300 ms  DeleteObjects: 0.113000 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 33.621038 seconds.
-  path: Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/crossed/frames/crossedAnimation.controller
-  artifactKey: Guid(08e934788a593984798fa3096ac30a34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/crossed/frames/crossedAnimation.controller using Guid(08e934788a593984798fa3096ac30a34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '837b8affcb435323e984bb9d30283626') in 0.015155 seconds
-  Import took 0.017978 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 6.775988 seconds.
-  path: Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/crossed/frames/crossedAnimator.controller
-  artifactKey: Guid(08e934788a593984798fa3096ac30a34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/crossed/frames/crossedAnimator.controller using Guid(08e934788a593984798fa3096ac30a34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a47b2f8d3ad73fe112573b15c8e8abb') in 0.002458 seconds
-  Import took 0.006017 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 64.146286 seconds.
-  path: Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/crossed/frames/crossed.anim
-  artifactKey: Guid(005cfba6bd10dee489652fbf74fe2065) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/crossed/frames/crossed.anim using Guid(005cfba6bd10dee489652fbf74fe2065) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9dc75b359aa9416350b000c3a4a21a3b') in 0.010411 seconds
-  Import took 0.014003 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001156 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for Lumin target not found
-Native extension for LinuxStandalone target not found
-Native extension for WindowsStandalone target not found
-Native extension for OSXStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.39 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.150 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.39 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1803 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 89.1 MB.
-System memory in use after: 89.1 MB.
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2370.
-Total: 2.572600 ms (FindLiveObjects: 0.327000 ms CreateObjectMapping: 0.133500 ms MarkObjects: 2.000200 ms  DeleteObjects: 0.110500 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 226.668975 seconds.
-  path: Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/hits/hits-1
-  artifactKey: Guid(33c7f0bb679a09a439d8ec2396391b8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/hits/hits-1 using Guid(33c7f0bb679a09a439d8ec2396391b8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0aee1762ee06b31ff3598c3f221956ff') in 0.007749 seconds
-  Import took 0.011716 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.085791 seconds.
-  path: Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/hits/hits-1/hits-1-preview.gif
-  artifactKey: Guid(e701ac3e88dacf14dbfcb4ad552d0337) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/hits/hits-1/hits-1-preview.gif using Guid(e701ac3e88dacf14dbfcb4ad552d0337) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91f4074eb82ec5f813bb02e507a10bde') in 0.065924 seconds
-  Import took 0.069569 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.253685 seconds.
-  path: Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/hits/hits-1/frames
-  artifactKey: Guid(303a5cccd1632fe4cad2864b69e93f7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/hits/hits-1/frames using Guid(303a5cccd1632fe4cad2864b69e93f7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f571bd35385dabf05067db46ffff2906') in 0.004104 seconds
-  Import took 0.007692 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.001007 seconds.
-  path: Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/hits/hits-1/frames
-  artifactKey: Guid(303a5cccd1632fe4cad2864b69e93f7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/hits/hits-1/frames using Guid(303a5cccd1632fe4cad2864b69e93f7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f571bd35385dabf05067db46ffff2906') in 0.002190 seconds
-  Import took 0.005410 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.042115 seconds.
-  path: Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/hits/hits-1/frames/hits-1-1.png
-  artifactKey: Guid(dee0b76db026ffa49a50ad807fb37ce8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/hits/hits-1/frames/hits-1-1.png using Guid(dee0b76db026ffa49a50ad807fb37ce8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ce11afb890e555dcd2195171e8ea8c2') in 0.010169 seconds
-  Import took 0.013906 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000351 seconds.
-  path: Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/hits/hits-1/frames/hits-1-5.png
-  artifactKey: Guid(a71ed4bef35d2f54d85b9ee485062346) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/hits/hits-1/frames/hits-1-5.png using Guid(a71ed4bef35d2f54d85b9ee485062346) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc77c0a2a84e13f6c35ecf3a45d80c7f') in 0.009264 seconds
-  Import took 0.013899 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000638 seconds.
-  path: Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/hits/hits-1/frames/hits-1-3.png
-  artifactKey: Guid(ffe48e44f65a44749b48cdaa9d3bdf86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/hits/hits-1/frames/hits-1-3.png using Guid(ffe48e44f65a44749b48cdaa9d3bdf86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '432a8194f78a274b167a7914e28399e2') in 0.010636 seconds
-  Import took 0.015576 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000252 seconds.
-  path: Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/hits/hits-1/frames/hits-1-2.png
-  artifactKey: Guid(944a3625b93c9c643bb6f2f20e8f8324) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/hits/hits-1/frames/hits-1-2.png using Guid(944a3625b93c9c643bb6f2f20e8f8324) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5ef800abfbe6dfb4ce3d319fac7fc0e') in 0.009845 seconds
-  Import took 0.014894 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000214 seconds.
-  path: Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/hits/hits-1/frames/hits-1-4.png
-  artifactKey: Guid(af5c7d1ad7a9d56448697300f674f2eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/hits/hits-1/frames/hits-1-4.png using Guid(af5c7d1ad7a9d56448697300f674f2eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6cf7d527688fa661a9e974ce6294fccc') in 0.015499 seconds
-  Import took 0.021820 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 6.347981 seconds.
-  path: Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/Pulse/frames/pulse1.png
-  artifactKey: Guid(f6518c8971310dd428eb40be8a013b1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/Pulse/frames/pulse1.png using Guid(f6518c8971310dd428eb40be8a013b1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae235e28160ca3564b6ac831eafe0fda') in 0.013001 seconds
-  Import took 0.016480 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000270 seconds.
-  path: Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/Pulse/frames/pulse4.png
-  artifactKey: Guid(1646f7b49facc9a428c060bafbbc7f18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/Pulse/frames/pulse4.png using Guid(1646f7b49facc9a428c060bafbbc7f18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3d5851d4769943262a689f682b68755') in 0.008665 seconds
-  Import took 0.012646 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000276 seconds.
-  path: Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/Pulse/frames/pulse3.png
-  artifactKey: Guid(a7200a7589f88f84694cfa3c1d633032) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/Pulse/frames/pulse3.png using Guid(a7200a7589f88f84694cfa3c1d633032) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d661e3ba4082a673c17fe09d0e41041') in 0.011792 seconds
-  Import took 0.016727 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000665 seconds.
-  path: Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/Pulse/frames/pulse2.png
-  artifactKey: Guid(43bb1d3bfd61d814887ce5b9b617a7a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/Pulse/frames/pulse2.png using Guid(43bb1d3bfd61d814887ce5b9b617a7a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a29d1ebb2e5e4044e2e572531a668928') in 0.010379 seconds
-  Import took 0.015441 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 20.589633 seconds.
-  path: Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/Pulse/frames
-  artifactKey: Guid(89d5bbefa32af9742a88a08b2311fc52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/Pulse/frames using Guid(89d5bbefa32af9742a88a08b2311fc52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea62cc89826597c205cbfbf0bdf116ee') in 0.002546 seconds
-  Import took 0.006888 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001228 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for Lumin target not found
-Native extension for LinuxStandalone target not found
-Native extension for WindowsStandalone target not found
-Native extension for OSXStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.39 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.117 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1803 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 89.1 MB.
-System memory in use after: 89.1 MB.
+Unloading 1808 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.6 MB.
+System memory in use after: 88.6 MB.
 
 Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2377.
-Total: 2.626600 ms (FindLiveObjects: 0.264000 ms CreateObjectMapping: 0.115400 ms MarkObjects: 2.112200 ms  DeleteObjects: 0.134000 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 46.527660 seconds.
-  path: Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/Pulse/frames/pulseAnimator.controller
-  artifactKey: Guid(678df2ebbc1e0654d9a5655e63cafbf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/Pulse/frames/pulseAnimator.controller using Guid(678df2ebbc1e0654d9a5655e63cafbf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc4e691360776fd384fadedfa2bdeec3') in 0.019167 seconds
-  Import took 0.026090 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 23.348431 seconds.
-  path: Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/Pulse/frames/pulse.anim
-  artifactKey: Guid(596f3af12b793e946b1992b6bce576dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/Pulse/frames/pulse.anim using Guid(596f3af12b793e946b1992b6bce576dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'edd16a97e5e77012eec4beb4adaf08fd') in 0.027535 seconds
-  Import took 0.031959 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000490 seconds.
-  path: Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/Pulse/frames/pulse.anim
-  artifactKey: Guid(596f3af12b793e946b1992b6bce576dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/Pulse/frames/pulse.anim using Guid(596f3af12b793e946b1992b6bce576dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'edd16a97e5e77012eec4beb4adaf08fd') in 0.003814 seconds
-  Import took 0.007842 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 50.250427 seconds.
-  path: Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/spark/spark-preview-big.gif
-  artifactKey: Guid(5a192202620ea794e8c15f1340357810) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/spark/spark-preview-big.gif using Guid(5a192202620ea794e8c15f1340357810) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a7cb2a1bb0ab184833cea86b63ff77c') in 0.058659 seconds
-  Import took 0.062137 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000308 seconds.
-  path: Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/spark/spark-preview.gif
-  artifactKey: Guid(24ae2c78b03ea3a49bace51e332c2352) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/spark/spark-preview.gif using Guid(24ae2c78b03ea3a49bace51e332c2352) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '312bc49919eb48b6eecad709f7570aeb') in 0.011953 seconds
-  Import took 0.016041 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 4.949944 seconds.
-  path: Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/spark/frames
-  artifactKey: Guid(91f3806adabd1ad4bb9e130ddd77fc56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/spark/frames using Guid(91f3806adabd1ad4bb9e130ddd77fc56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69aa24e62de81bd54b06b4f596ab4f48') in 0.004622 seconds
-  Import took 0.009179 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.857210 seconds.
-  path: Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/spark/frames/spark-preview1.png
-  artifactKey: Guid(7fb238625d36c4449908e61680b3cd2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/spark/frames/spark-preview1.png using Guid(7fb238625d36c4449908e61680b3cd2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27377b77195ef099e376bdcfdeee4428') in 0.008210 seconds
-  Import took 0.011679 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000277 seconds.
-  path: Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/spark/frames/spark-preview2.png
-  artifactKey: Guid(c4071207fefd7a84eb51dfd051801d95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/spark/frames/spark-preview2.png using Guid(c4071207fefd7a84eb51dfd051801d95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be02985da71b6df72333f914e562b206') in 0.008984 seconds
-  Import took 0.011881 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000237 seconds.
-  path: Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/spark/frames/spark-preview4.png
-  artifactKey: Guid(2b06277de8e167348bf9279cb8ee6e4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/spark/frames/spark-preview4.png using Guid(2b06277de8e167348bf9279cb8ee6e4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e178adcdee215ec28431f45143eee733') in 0.010512 seconds
-  Import took 0.014323 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000270 seconds.
-  path: Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/spark/frames/spark-preview5.png
-  artifactKey: Guid(0ff618f1527c28e459eb129bb2283581) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/spark/frames/spark-preview5.png using Guid(0ff618f1527c28e459eb129bb2283581) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '011632697b967fa97bfa25e547d83fe2') in 0.012497 seconds
-  Import took 0.017552 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000273 seconds.
-  path: Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/spark/frames/spark-preview3.png
-  artifactKey: Guid(64c4d732d631f5c4fb0f1e36a5781c3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/spark/frames/spark-preview3.png using Guid(64c4d732d631f5c4fb0f1e36a5781c3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8d546cfaf3a2e66d3bd6e96326d254f') in 0.014664 seconds
-  Import took 0.018184 seconds .
+Total: 1.945600 ms (FindLiveObjects: 0.190400 ms CreateObjectMapping: 0.064600 ms MarkObjects: 1.593100 ms  DeleteObjects: 0.097100 ms)
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.003000 seconds.
+Registered in 0.000517 seconds.
 Begin MonoManager ReloadAssembly
-Native extension for Lumin target not found
-Native extension for LinuxStandalone target not found
 Native extension for WindowsStandalone target not found
-Native extension for OSXStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.103 seconds
+- Completed reload, in  0.642 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.40 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1803 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 89.1 MB.
-System memory in use after: 89.1 MB.
+Unloading 1808 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.6 MB.
+System memory in use after: 88.6 MB.
 
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2384.
-Total: 2.446000 ms (FindLiveObjects: 0.245200 ms CreateObjectMapping: 0.115200 ms MarkObjects: 1.924800 ms  DeleteObjects: 0.159700 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 27.901986 seconds.
-  path: Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/spark/frames/sparkAnimator.controller
-  artifactKey: Guid(6b69148c149241048b72f9e8016cac7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/spark/frames/sparkAnimator.controller using Guid(6b69148c149241048b72f9e8016cac7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f29fb3a3ea8d42ee290804967fc0dae3') in 0.020210 seconds
-  Import took 0.023861 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 20.598082 seconds.
-  path: Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/spark/frames/spark.anim
-  artifactKey: Guid(6c2a9cf1f05e1c24ba66512f6d66dea9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/spark/frames/spark.anim using Guid(6c2a9cf1f05e1c24ba66512f6d66dea9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '384228bbe18ce778ab8f8a5da0c28187') in 0.006778 seconds
-  Import took 0.010557 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001920 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for Lumin target not found
-Native extension for LinuxStandalone target not found
-Native extension for WindowsStandalone target not found
-Native extension for OSXStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.210 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.39 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1803 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 89.1 MB.
-System memory in use after: 89.1 MB.
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2388.
-Total: 2.364800 ms (FindLiveObjects: 0.237400 ms CreateObjectMapping: 0.082800 ms MarkObjects: 1.930800 ms  DeleteObjects: 0.112800 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001522 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for Lumin target not found
-Native extension for LinuxStandalone target not found
-Native extension for WindowsStandalone target not found
-Native extension for OSXStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.116 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.61 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1803 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 89.1 MB.
-System memory in use after: 89.1 MB.
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2392.
-Total: 3.400600 ms (FindLiveObjects: 0.377000 ms CreateObjectMapping: 0.142100 ms MarkObjects: 2.760800 ms  DeleteObjects: 0.118900 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 63.489040 seconds.
-  path: Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/spark/frames/spark.anim
-  artifactKey: Guid(6c2a9cf1f05e1c24ba66512f6d66dea9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/spark/frames/spark.anim using Guid(6c2a9cf1f05e1c24ba66512f6d66dea9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05a351dc83a8328b1bb3da81bc4ab80e') in 0.014296 seconds
-  Import took 0.018245 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 4.654141 seconds.
-  path: Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/waveform/frames/waveform1.png
-  artifactKey: Guid(b78ba23cbd7debd419e66da914055d92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/waveform/frames/waveform1.png using Guid(b78ba23cbd7debd419e66da914055d92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d837c184825b88b9fb72db2ff7cab15') in 0.050799 seconds
-  Import took 0.054454 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000320 seconds.
-  path: Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/waveform/frames/waveform2.png
-  artifactKey: Guid(e7fc6802b34f0ed4185882a87acf0dd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/waveform/frames/waveform2.png using Guid(e7fc6802b34f0ed4185882a87acf0dd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad97c71db62c51375aeb1752f9f2415e') in 0.010355 seconds
-  Import took 0.013554 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000320 seconds.
-  path: Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/waveform/frames/waveform4.png
-  artifactKey: Guid(6623254199a80f24ba80c9d4c0a70087) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/waveform/frames/waveform4.png using Guid(6623254199a80f24ba80c9d4c0a70087) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd3543142281a76e8be66ba7ea63f375') in 0.010990 seconds
-  Import took 0.016444 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000331 seconds.
-  path: Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/waveform/frames/waveform3.png
-  artifactKey: Guid(6895c5fe3e1922c4f9d3661ddbf0ab3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/waveform/frames/waveform3.png using Guid(6895c5fe3e1922c4f9d3661ddbf0ab3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '165af5f5b9c166717ca98a0cf17483ab') in 0.012187 seconds
-  Import took 0.015490 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 3.322786 seconds.
-  path: Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/waveform/frames
-  artifactKey: Guid(09c3dfcc0a48ee54491064fbdcb72265) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/waveform/frames using Guid(09c3dfcc0a48ee54491064fbdcb72265) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6411685abf370865fe036fe514ff1973') in 0.004234 seconds
-  Import took 0.007683 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000654 seconds.
-  path: Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/waveform/frames
-  artifactKey: Guid(09c3dfcc0a48ee54491064fbdcb72265) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/waveform/frames using Guid(09c3dfcc0a48ee54491064fbdcb72265) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6411685abf370865fe036fe514ff1973') in 0.001917 seconds
-  Import took 0.007048 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 12.145040 seconds.
-  path: Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/waveform/frames/waveformAnimator.controller
-  artifactKey: Guid(9ab269819c13d7c4a8bf61c53f1ca4f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/waveform/frames/waveformAnimator.controller using Guid(9ab269819c13d7c4a8bf61c53f1ca4f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '535893823955f97a77ea4234b8050310') in 0.009064 seconds
-  Import took 0.013354 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 33.986088 seconds.
-  path: Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/waveform/frames/waveform.anim
-  artifactKey: Guid(a356f0bb6b63f604eaa2b740722a29e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2D assets/Warped shooting fx files/Warped shooting fx files/Pixelart/waveform/frames/waveform.anim using Guid(a356f0bb6b63f604eaa2b740722a29e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02849266706db9e317ab4bc6e4ef862a') in 0.005031 seconds
-  Import took 0.011525 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001183 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for Lumin target not found
-Native extension for LinuxStandalone target not found
-Native extension for WindowsStandalone target not found
-Native extension for OSXStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.49 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.082 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.40 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1803 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 89.2 MB.
-System memory in use after: 89.1 MB.
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2399.
-Total: 2.949200 ms (FindLiveObjects: 0.424400 ms CreateObjectMapping: 0.160100 ms MarkObjects: 2.099200 ms  DeleteObjects: 0.263300 ms)
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2381.
+Total: 2.282400 ms (FindLiveObjects: 0.410600 ms CreateObjectMapping: 0.128100 ms MarkObjects: 1.580200 ms  DeleteObjects: 0.162600 ms)
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
