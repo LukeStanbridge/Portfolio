@@ -11,4 +11,5 @@ public class Bullet : MonoBehaviour
     {
         rb.velocity = transform.right * speed; // Gives bullet rigidbody velociy
     }
+    // destroy bullets on collision
 }

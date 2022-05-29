@@ -14,6 +14,7 @@ public class CharController2D : MonoBehaviour
     private float direction = 0f;
     private Rigidbody2D player;
     private Animator playerAnimation;
+    public bool facingRight = false;
 
     private void Start()
     {
@@ -31,12 +32,13 @@ public class CharController2D : MonoBehaviour
         {
             player.velocity = new Vector2(speed * direction, player.velocity.y);
             transform.localScale = new Vector2(2f, 2f); // scale sets player to face right
+            facingRight = true;
         }
         else if (direction < 0f)
         {
             player.velocity = new Vector2(speed * direction, player.velocity.y);
             transform.localScale = new Vector2(-2f, 2f); // scale sets player to face left
-            // fire backwards in future
+            facingRight = false;
         }
         else
         {

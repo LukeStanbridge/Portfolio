@@ -6,17 +6,22 @@ public class Weapon : MonoBehaviour
 {
     [SerializeField] private Transform firePoint;
     [SerializeField] private GameObject bulletPrefab;
+    CharController2D controller;
 
+    private void Start()
+    {
+        controller = GetComponent<CharController2D>();
+    }
     private void Update()
     {
         if (Input.GetButtonDown("Fire1"))
-        {
+        {        
             Shoot();
         }
     }
-
     private void Shoot()
     {
-        Instantiate(bulletPrefab, firePoint.position, firePoint.rotation);
+        float angle = controller.facingRight ? 0f : 180f;
+        Instantiate(bulletPrefab, firePoint.position, Quaternion.Euler(new Vector3(0f, 0f, angle)));
     }
 }
