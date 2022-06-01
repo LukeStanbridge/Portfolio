@@ -54,8 +54,8 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Library\PackageCache\com.unity.sysroot@2.0.2\Editor\NiceIO.cs" />
-    <Compile Include="Library\PackageCache\com.unity.sysroot@2.0.2\Editor\Unity.SysrootPackage.cs" />
     <Compile Include="Library\PackageCache\com.unity.sysroot@2.0.2\Editor\AssemblyInfo.cs" />
+    <Compile Include="Library\PackageCache\com.unity.sysroot@2.0.2\Editor\Unity.SysrootPackage.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Library\PackageCache\com.unity.sysroot@2.0.2\Editor\Unity.SysrootPackage.Editor.asmdef" />
