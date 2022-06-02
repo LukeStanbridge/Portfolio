@@ -6,6 +6,7 @@ public class Weapon : MonoBehaviour
 {
     [SerializeField] private Transform firePoint;
     [SerializeField] private GameObject bulletPrefab;
+    [SerializeField] private GameObject alternatBulletPrefab;
     CharController2D controller;
 
     private void Start()
@@ -18,10 +19,20 @@ public class Weapon : MonoBehaviour
         {        
             Shoot();
         }
+        if (Input.GetButtonDown("Fire2"))
+        {
+            AlternateShoot();
+        }
     }
     private void Shoot()
     {
         float angle = controller.facingRight ? 0f : 180f;
         Instantiate(bulletPrefab, firePoint.position, Quaternion.Euler(new Vector3(0f, 0f, angle)));
+    }
+
+    private void AlternateShoot()
+    {
+        float angle = controller.facingRight ? 0f : 180f;
+        Instantiate(alternatBulletPrefab, firePoint.position, Quaternion.Euler(new Vector3(0f, 0f, angle)));
     }
 }
