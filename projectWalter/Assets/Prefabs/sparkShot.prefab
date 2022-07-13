@@ -11,10 +11,9 @@ GameObject:
   - component: {fileID: 8323884044556965634}
   - component: {fileID: 8323884044556965635}
   - component: {fileID: 8323884044556965632}
-  - component: {fileID: 8388019406385902345}
   - component: {fileID: 6090764078511797174}
-  - component: {fileID: -4240285899517579423}
   - component: {fileID: 4392425941879964635}
+  - component: {fileID: 8423108634902530856}
   m_Layer: 0
   m_Name: sparkShot
   m_TagString: Untagged
@@ -98,7 +97,7 @@ Animator:
   m_Enabled: 1
   m_Avatar: {fileID: 0}
   m_Controller: {fileID: 9100000, guid: 6b69148c149241048b72f9e8016cac7f, type: 2}
-  m_CullingMode: 0
+  m_CullingMode: 2
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
   m_LinearVelocityBlending: 0
@@ -106,20 +105,6 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
---- !u!114 &8388019406385902345
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8323884044556965633}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 53ba0a1df50aa8242a89396d537770f0, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  speed: 20
-  rb: {fileID: 6090764078511797174}
 --- !u!50 &6090764078511797174
 Rigidbody2D:
   serializedVersion: 4
@@ -139,22 +124,8 @@ Rigidbody2D:
   m_Material: {fileID: 0}
   m_Interpolate: 0
   m_SleepingMode: 1
-  m_CollisionDetection: 0
+  m_CollisionDetection: 1
   m_Constraints: 4
---- !u!114 &-4240285899517579423
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8323884044556965633}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b033f0fc63b32634d812973131957386, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  speed: 10
-  rb: {fileID: 6090764078511797174}
 --- !u!70 &4392425941879964635
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -165,9 +136,23 @@ CapsuleCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.08046729, y: -0.008327029}
-  m_Size: {x: 0.3691819, y: 0.09911651}
+  m_Offset: {x: 0.10924332, y: -0.008327032}
+  m_Size: {x: 0.42673504, y: 0.09911678}
   m_Direction: 1
+--- !u!114 &8423108634902530856
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8323884044556965633}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 53ba0a1df50aa8242a89396d537770f0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 10
+  rb: {fileID: 6090764078511797174}

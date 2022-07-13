@@ -55,9 +55,4 @@ public class CharController2D : MonoBehaviour
         playerAnimation.SetBool("OnGround", isTouchingGround); // checks if on ground using previously established variable
     }
 }
-// https://www.youtube.com/watch?v=wkKsl1Mfp5M 2d shooting
-// Daniel Wood unity 2d platform tutorials
-// https://www.youtube.com/watch?v=n39-j7qfvWU2D Scrolling background
-// https://www.youtube.com/watch?v=HVCsg_62xYw player animations
-// https://www.youtube.com/watch?v=hkaysu1Z-N8 player animations brackeys
 
